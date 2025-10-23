@@ -1,4 +1,3 @@
-// src/utils/storage.js
 export const STORAGE_KEY = 'contacts_v1';
 
 export function loadContacts() {
